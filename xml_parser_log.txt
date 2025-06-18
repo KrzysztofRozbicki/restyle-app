@@ -1,0 +1,859 @@
+[2025-06-18 12:41:00] === Starting XML feed parsing ===
+[2025-06-18 12:41:00] Starting XML parsing of: D:\restyle-app/feed.xml
+[2025-06-18 12:41:00] File size: 18.40 MB
+[2025-06-18 12:41:00] Product 866: Brązowe rękawki z klamrami steampunk
+        Wspaniały dodatek dla fanów steampunku.Rękawki wyk - Total stock: 465
+[2025-06-18 12:41:00] Product 1233: "WH BROCADE OVERBUST" Czarny, gotycki gorset mocno modelujący talię
+        Brocade Overbust
+Gorse - Total stock: 177
+[2025-06-18 12:41:00] Product 1234: Gotycki gorset mocno modelujący talię „WH BROCADE UNDERBUST"
+         Gotycki gorset mocno model - Total stock: 124
+[2025-06-18 12:41:00] Product 1236: Gorset mocno wyszczuplający, underbust, eko-skóra, steampunk „BLACK ARMOR”
+         Gorset moc - Total stock: 19
+[2025-06-18 12:41:00] Product 1368: Teczka brązowa steampunkowa torba "BROWN MECHANISM"
+        Brązowa torebka o fasonie teczkiMieśc - Total stock: 37
+[2025-06-18 12:41:00] Product 1375: Gotycki Pasek uprz , Czarny, O-ring, paski, karabińczyki "TRIANGLE BELT"
+        
+Pasek wykonany z  - Total stock: 159
+[2025-06-18 12:41:00] Product 1468: Gotycki Pasek na talię, uprz , Czarny "PENTAGRAM HARNESS BELT"
+        Pentagram harnessPasek wykon - Total stock: 1
+[2025-06-18 12:41:00] Product 1470: Czarna Okrągła torebka, ksiyc, pełnia "LUNA ROUND BAG"
+        Torba LunaOkrągła torebka wykon - Total stock: 6
+[2025-06-18 12:41:00] Product 1473: Czarna teczka, gotycka torba z frędzlami, pentagram"BOHO WITCH"
+        Torba Boho WitchTorebka w  - Total stock: 22
+[2025-06-18 12:41:00] Product 1475: Czarny plecak z kieszeniami, harness, skórzane paski"O-RING BACKPACK"
+        Plecak O-ringWykonany - Total stock: 178
+[2025-06-18 12:41:00] Product 1485: Czarna bluzka z baskinką, Biały, długi kołnierzyk, haft z ksiycem "LUNA SHIRT"
+        Luna Shir - Total stock: 48
+[2025-06-18 12:41:00] Product 1517: Gotyckie rękawiczki z siateczki z wzorem mehendi, ksiyce "Henna Gloves"
+        Henna GlovesRękaw - Total stock: 19
+[2025-06-18 12:41:00] Product 1519: Czarna Kolia koralikowa, gotycki naszyjnik "FRANCES CHOKER"
+        Gotycka biżuteriaKolia ręcznie - Total stock: 32
+[2025-06-18 12:41:00] Processed 100 products, found 13 with stock
+[2025-06-18 12:41:00] Product 1533: Czarny żakardowy mocno modelujący gorset "CU10 Black Brocade Underbust”
+        Czarny żakardow - Total stock: 122
+[2025-06-18 12:41:00] Product 1534: Czarny klasyczny gorset mocno modelujący "CU7 Black Matte Underbust”
+         Czarny klasyczny go - Total stock: 74
+[2025-06-18 12:41:00] Product 1561: Czarny pierścień krucza czaszka, ksiyc"WITCH CROW BLACK"
+        Pierścionek "Witch Crow Black"P - Total stock: 4
+[2025-06-18 12:41:00] Product 1567: Para spinek do włosów, gotyckie spinki, czarne koronkowe nietoperze "LACE BAT WINGS"
+        Spink - Total stock: 48
+[2025-06-18 12:41:00] Product 1571: Wisior czarny nietoperz koronkowy, naszyjnik ksiyc "LACE BAT BLACK PENDANT"
+        Naszyjnik - wisi - Total stock: 21
+[2025-06-18 12:41:00] Product 1572: Bransoleta czona z pierścionkiem, ksiyc, fazy ksiyca "LUNAR GODDESS BRACELET"
+         Bransoleta  - Total stock: 1
+[2025-06-18 12:41:00] Product 1591: Czarny plecak do szkoły z kieszeniami, torba smok "DRAGON BACKPACK"
+        Plecak dragon bacpackW - Total stock: 379
+[2025-06-18 12:41:00] Product 1592: Czarna torba na biodro, nerka, Pocket belt "DRAGON HOLSTER BAG"
+        
+Wielofunkcyjna, czarna tore - Total stock: 211
+[2025-06-18 12:41:00] Product 1606: Czarna plisowana spódnica z nadrukiem, ksiyce, symbole "SYMBOL SKIRT"
+        Symbol SkirtSpódnica - Total stock: 17
+[2025-06-18 12:41:00] Product 1612: Czarne kolczyki sygil, symbole "BLACK LUCIFER SIGIL EARRINGS"
+        Czarne kolczyki "Sygil Lucyfe - Total stock: 10
+[2025-06-18 12:41:00] Product 1637: Otwierany Wisior sekretnik, Gotycki Naszyjnik ksika Lovecraft "NECRONOMICON BOOK"
+        Wisior w k - Total stock: 14
+[2025-06-18 12:41:00] Product 1650: Nowoczesna gotycka bransoleta geometryczna "PENTAGRAM BLACK BRACELET"
+        Bransoleta PentagramB - Total stock: 42
+[2025-06-18 12:41:00] Product 1654: Czarna nowoczesna gotycka bransoleta z rzemieni "STRING BRACELET"
+        Leather String Bracelet ( - Total stock: 157
+[2025-06-18 12:41:00] Product 1655: Czarne kocie legginsy, getry, sfinks, egipskie "SPHYNX LEGGINGS"
+        Elastyczne legginsy z nadru - Total stock: 120
+[2025-06-18 12:41:00] Product 1668: Długa czarna bluza z obszernym kapturem, ksiyc, płaszczyk "LAYERED HOODIE"
+        Layered hoodieD - Total stock: 29
+[2025-06-18 12:41:00] Processed 200 products, found 28 with stock
+[2025-06-18 12:41:00] Product 1672: Czarne bransolety, skrzydła nietoperza, gotyckie pieszczochy "BAT CUFFS"
+        Bat CuffsPara bran - Total stock: 337
+[2025-06-18 12:41:00] Product 1675: Czarna gotycka torebka na biodro, nerka, torba nietoperz "BAT HOLSTER BAG"
+        
+Wielofunkcyjna t - Total stock: 158
+[2025-06-18 12:41:00] Product 1680: Czarny plecak kostka, harness z serduszkami "HEAVY HEART BACKPACK"
+        Plecak w kształcie kostk - Total stock: 96
+[2025-06-18 12:41:00] Product 1691: Czarne kolczyki miecze, ksiyce "BLACK SWORDS"
+        Czarne kolczyki miecze „Swords"
+
+ Długie ko - Total stock: 42
+[2025-06-18 12:41:00] Product 1730: Rozkloszowany zimowy płaszcz, odpinany kaptur "FUTURE GOTH COAT"
+        Zimowy płaszcz Future Got - Total stock: 8
+[2025-06-18 12:41:00] Product 1732: Czarne legginsy z nadrukiem w czaszki i pentagramy "SATANIC LEGGINGS"
+        Elastyczne legginsy z  - Total stock: 32
+[2025-06-18 12:41:00] Product 1734: Legginsy, gotyckie getry bawełniane z pentagramami harness "PENTAGRAM LEGGINGS"
+        Elastyczne  - Total stock: 34
+[2025-06-18 12:41:00] Product 1740: Gotycka, sznurowana sukienka, odpinany kaptur "ARMOR DRESS"
+        Armor DressSukienka wykonana z - Total stock: 3
+[2025-06-18 12:41:00] Product 1744: Gotycka bluza Fazy ksiyca, obszerny kaptur "LUNAR HOODIE"
+        Bluza w ksiyceBluza o kobiecym kro - Total stock: 27
+[2025-06-18 12:41:00] Product 1745: Gotycka bluza, Czaszka kozła, pentagramy, obszerny kaptur "RITUAL HOODIE"
+        Bluza z czaszką - Total stock: 19
+[2025-06-18 12:41:00] Product 1747: Długa, Runiczna bluza z obszernym kapturem "RUNES HOODIE"
+        Runes hoodieDługa, czarna bluza - Total stock: 118
+[2025-06-18 12:41:00] Product 1750: Gotycka obroża z ksiycem "IRON MOON COLLAR"
+        Iron Moon CollarObrka wykonana ze sztucznej s - Total stock: 95
+[2025-06-18 12:41:00] Product 1760: Dopasowany Damski t-shirt z magiczną kulą "YOU'RE GONNA DIE SOON"
+        T-shirt z kulą i mistyc - Total stock: 26
+[2025-06-18 12:41:00] Product 1761: Dopasowany t-shirt koszulka z Kotem "GALAXY CAT"
+        Mistyczny t-shirt z kotem "Galaxy Cat"  Obc - Total stock: 79
+[2025-06-18 12:41:00] Product 1762: Dopasowana Damska koszulka z Wednesday Addams t-shirt "TRIPPIN WEDNESDAY"
+          T-shirt z Wedne - Total stock: 8
+[2025-06-18 12:41:00] Processed 300 products, found 43 with stock
+[2025-06-18 12:41:00] Product 1763: Klasyczny damski t-shirt z pentagramem z rami "ROSE PENTAGRAM"
+        T-shirt z pentagramem i rami  - Total stock: 25
+[2025-06-18 12:41:00] Product 1765: Koszulka z R i sztyletem V-neck z chokerem "STAY SHARP"
+        T-shirt z r i sztyletem "Stay Sharp" - Total stock: 12
+[2025-06-18 12:41:00] Product 1766: V-neck z chokerem gotycka koszulka z symbolami "SYMBOLS"
+        T-shirt z gotyckimi symbolami "Symb - Total stock: 35
+[2025-06-18 12:41:00] Product 1768: V-neck z chokerem gotycka koszulka z fazami ksiyca "MOON PHASES"
+        T-shirt z fazami ksiyca "Mo - Total stock: 9
+[2025-06-18 12:41:00] Product 1769: Gotycka koszulka z konstelacjami gwiazd V-neck z chokerem "I NEED SOME SPACE"
+        T-shirt z kons - Total stock: 112
+[2025-06-18 12:41:00] Product 1770: Crop top gotycka koszulka z aplikacją "WANNA RAISE SOME HELL"
+         T-shirt "Wanna raise some h - Total stock: 36
+[2025-06-18 12:41:00] Product 1771: Crop top gotycka koszulka "THE BADDEST WITCH IN TOWN"
+         T-shirt "The Baddest Witch in Town"C - Total stock: 19
+[2025-06-18 12:41:00] Product 1772: gotycka koszulka, Krótki T-shirt z nadrukiem Crop top "OH LUCIFER"
+         T-shirt "Oh Lucifer"Cz - Total stock: 16
+[2025-06-18 12:41:00] Product 1777: Gotycka obroża z napisem "WITCHCRAFT BLACK CHAIN COLLAR"
+        Obrka czarna z motywem pentagramu  - Total stock: 49
+[2025-06-18 12:41:00] Product 1779: Gotycka obroża z kkiem "O-RING COLLAR"
+        O-ring CollarObrka wykonana ze sztucznej skóry. O - Total stock: 74
+[2025-06-18 12:41:00] Product 1798: Torebka gotycka "ELEGANT GOTH PURSE"
+        Elegancka, gotycka torebka z ksiycem i skrzydłami nie - Total stock: 77
+[2025-06-18 12:41:00] Product 1813: Kolczyk Nausznica na lewe ucho "DRAGON EARCUFF"
+        Kolczyk z motywem smoka na lewe ucho "Dragon - Total stock: 41
+[2025-06-18 12:41:00] Product 1814: Kolczyk Nausznica na prawe ucho "DRAGON EARCUFF"
+        Kolczyk "Dragon Earcuff"Kolczyk na sztyfci - Total stock: 25
+[2025-06-18 12:41:00] Product 1850: DEMONIC CAT LEGGINGS Czarne gotyckie legginsy, getry bawełniane
+        Elastyczne legginsy z oryg - Total stock: 29
+[2025-06-18 12:41:00] Product 1878: FOREST WITCH haft paproć Długa, gotycka bluza z paprocią
+        Bluza paproćDługa, czarna blu - Total stock: 27
+[2025-06-18 12:41:00] Processed 400 products, found 58 with stock
+[2025-06-18 12:41:00] Product 1882: Krótki top z harnessem i obro  VILLAIN TOP
+        Gotycki krótki topBluzka wykonana z mocnej tk - Total stock: 5
+[2025-06-18 12:41:00] Product 1886: MOON HARNESS TOP czarny krótki top welur
+        Gotycki top harnessTop wykonany z weluru z eleme - Total stock: 123
+[2025-06-18 12:41:00] Product 1912: Torebka gotycka "OMINOUS BAG" nietoperz i pentagram
+        Elegancka, gotycka torebka z pentagram - Total stock: 105
+[2025-06-18 12:41:00] Product 1913: Torba worek "WITCHCRAFT HOBO BAG" torebka z pentagramem
+        Gotycka torebka witchcraftPojemna to - Total stock: 153
+[2025-06-18 12:41:00] Product 1937: Gotycki wisior ksiyc i nietoperze "MOON BAT PENDANT"
+        Wisior "Moon Bat"Naszyjnik w postaci p - Total stock: 18
+[2025-06-18 12:41:00] Product 1941: Czarny wisior ksiyc i w "MOON EMBRACED NECKLACE BLACK"
+        Gotycki Naszyjnik W oplatający ksiyc - Total stock: 23
+[2025-06-18 12:41:00] Product 1945: Czarny wisiorek w i kryształ "ENTWINE BLACK NECKLACE"
+        Gotycki wisiorek z kryształemNaszy - Total stock: 2
+[2025-06-18 12:41:00] Product 1975: DOUBLE CRESCENT VELVET LEGGINGS, czarne gotyckie legginsy z pksiycem
+        Gotyckie legginsy z dł - Total stock: 19
+[2025-06-18 12:41:00] Product 1976: Czarna gotycka rozkloszowana spódnica "FORTUNE TELLER SKIRT"
+         Gotycka, plisowana spódnica  - Total stock: 26
+[2025-06-18 12:41:00] Product 1977: Czarna gotycka ćwiekowana spódnica "STUDDED SUEDE SKIRT"
+         Gotycka, czarna, krótka spódni - Total stock: 7
+[2025-06-18 12:41:00] Product 1980: VELVET REAPER HOODIE, czarna gotycka aksamitna bluza z dużym kapturem
+         Czarna, gotycka bluz - Total stock: 3
+[2025-06-18 12:41:00] Product 1985: TWIN MOON HOODIE czarna gotycka bluza z dwoma suwakami i nadrukiem
+         Czarna, gotycka bluza z  - Total stock: 25
+[2025-06-18 12:41:00] Product 1988: Gotycka obroża z kolcami DOUBLE SPIKED
+        Gotycka obroża z kolcami doda wyrazistości każdej - Total stock: 6
+[2025-06-18 12:41:00] Product 1992: Gotycka obroża z ksiycem MOON AND D-RING
+        Gotycka obroża doda pikanterii każdej stylizacji - Total stock: 66
+[2025-06-18 12:41:00] Product 1997: TRIPLE GODDESS podłużny portfel z ksiycem i słońcem
+        Elegancki, podłużny portfel wykona - Total stock: 21
+[2025-06-18 12:41:00] Processed 500 products, found 73 with stock
+[2025-06-18 12:41:00] Product 2008: Gotyckie kolczyki koła THE CROW EARRINGS
+        Daj się ponie gotyckiej stylistyce dzięki kolcz - Total stock: 16
+[2025-06-18 12:41:00] Product 2050: Czarne gotyckie body z siatki geometryczne MOON CHILD MESH BODY
+         Body w gotyckim stylu z cza - Total stock: 23
+[2025-06-18 12:41:00] Product 2052: Czarna gotycka krótka spódnicaz pasami MOON MISTRESS
+        
+Gotycka spódnica we wzór harness. - Total stock: 50
+[2025-06-18 12:41:00] Product 2054: Czarna gotycka sukienka z plisowanym trenem NIGHT MIST
+         Gotycka sukienka z plisowanym trenem - Total stock: 3
+[2025-06-18 12:41:00] Product 2083: Długa, gotycka bluza z haftem poroża INTO THE WILD
+         Gotycka bluza z haftem poroża INTO TH - Total stock: 11
+[2025-06-18 12:41:00] Product 2106: Szeroka Złota Bransoleta Snake w
+        
+Gotycka złota bransoleta Snake
+
+Z przodu, w centralnym p - Total stock: 53
+[2025-06-18 12:41:00] Product 2121: Czarna obcisła sukienka Cross Dress z panelami
+        Gotycka, czarna sukienka typu bodycon z siat - Total stock: 2
+[2025-06-18 12:41:00] Product 2122: Czarna aksamitna spódnica z wiązaniami i pentagramem
+        Czarna, gotycka spódnica z aksamitu  - Total stock: 114
+[2025-06-18 12:41:00] Product 2125: Koronkowa Bluzka z obro i pentagramem gotycki top z baskinką
+        Gotycka koronkowa bluzka z bas - Total stock: 31
+[2025-06-18 12:41:00] Product 2126: Gotycka koronkowa sukienka z obro i pentagramem
+        Gotycka sukienka z pentagramem, baskiną i k - Total stock: 3
+[2025-06-18 12:41:00] Product 2129: Obcisła Gotycka Sukienka w prek z obro z Dringami
+        Gotycka sukienka z obro.
+
+Sukienka Collar - Total stock: 14
+[2025-06-18 12:41:00] Product 2133: Warstwowa koronkowa spódnica Tulipan z pentagramem
+        Gotycka, czarna mini spódnica z koronk� - Total stock: 49
+[2025-06-18 12:41:00] Product 2134: Krótki koronkowy top z dekoltem serduszkowym
+        Gotycki crop top z koronką i gorsetowym wiąz - Total stock: 18
+[2025-06-18 12:41:00] Product 2136: Gotycka Koronkowa Sukienka z rozszerzanymi rękawami
+         Gotycka sukienka z koronki w kolorze c - Total stock: 59
+[2025-06-18 12:41:00] Product 2138: Czarna sukienka z krzyżem aksamit dekolt serduszko
+        Czarna sukienka z dekoltem w serduszko w - Total stock: 3
+[2025-06-18 12:41:00] Processed 600 products, found 88 with stock
+[2025-06-18 12:41:00] Product 2140: Sukienka gotycka aksamit i koronka wiązana pod szyją
+         Czarna, gotycka sukienka z aksamitu  - Total stock: 1
+[2025-06-18 12:41:00] Product 2142: Elficka sukienka gotycka z szerokimi rękawami
+        Czarna, gotycka tunika z rozszerzanymi rękaw - Total stock: 9
+[2025-06-18 12:41:00] Product 2143: Tunika Strappy Acid Wash asymetryczna z harnessem
+        Gotycka tunika z paskami harness i pentag - Total stock: 46
+[2025-06-18 12:41:00] Product 2144: Barwiona Gotycka Tunika asymetryczna z obro i pentagramem
+        Czarna tunika w stylu gotyckim z c - Total stock: 9
+[2025-06-18 12:41:00] Product 2145: Tunika Gotycka Spectre Sukienka z rozszerzanymi rękawami i gipiurą
+         Gotycka sukienka z kor - Total stock: 30
+[2025-06-18 12:41:00] Product 2149: Mocno rozkloszowany plisowany płaszczyk z futerkiem pod szyją
+        Gotycki, czarny płaszcz ze  - Total stock: 11
+[2025-06-18 12:41:00] Product 2155: Plisowana spódnica z barokowym wzorem z monogramem
+        Gotycka, czarna spódnica z barokowym mo - Total stock: 7
+[2025-06-18 12:41:00] Product 2157: Gotycka opaska z rogami DARK ELF
+        Czarna, gotycka opaska z rogami kozła i uszami elfa „DAR - Total stock: 102
+[2025-06-18 12:41:00] Product 2170: Torebka Cathedral Gotycka torba na pasku z potrójnym ksiycem
+        Elegancka, gotycka torebka tec - Total stock: 22
+[2025-06-18 12:41:00] Product 2176: Gotyckie czarne rękawiczki Luxurious Goth Monogram
+        Gotyckie, siatkowane rękawiczki z logow - Total stock: 137
+[2025-06-18 12:41:00] Product 2178: Aksamitne legginsy z siateczką Cathedral
+        Gotyckie, aksamitne legginsy z siateczką we wzór - Total stock: 113
+[2025-06-18 12:41:00] Product 2179: BAROQUE LEGGINGS, czarne gotyckie legginsy w ksiyce
+        Gotyckie legginsy z wysokim stanem w kol - Total stock: 121
+[2025-06-18 12:41:00] Product 2180: Czarne legginsy z purpurowym monogramem
+        Czarne, gotyckie legginsy z bordowym monogramem Rest - Total stock: 206
+[2025-06-18 12:41:00] Product 2185: Czarne gotyckie body z siateczki FERN
+        Gotyckie body z czarnej siateczki z nadrukiem liści p - Total stock: 9
+[2025-06-18 12:41:00] Product 2187: Czarne gotyckie body z siateczki nietoperz Jewel Bat
+        Gotyckie body z czarnej siateczki z nad - Total stock: 39
+[2025-06-18 12:41:00] Processed 700 products, found 103 with stock
+[2025-06-18 12:41:00] Product 2198: BLAIR BLACK Gotycka poszewka na poduszkę wyszywana
+        Gotycka, czarna poszewka na poduszkę z  - Total stock: 12
+[2025-06-18 12:41:00] Product 2199: BLAIR GRAY Gotycka poszewka na poduszkę wyszywana
+        Gotycka, szara poszewka na poduszkę z ha - Total stock: 54
+[2025-06-18 12:41:00] Product 2200: BLAIR BURNOUT Gotycka poszewka na poduszkę wypukły wzór
+        Gotycka, czarna poszewka na podus - Total stock: 65
+[2025-06-18 12:41:00] Product 2201: AMARIS Gotycka poszewka na poduszkę z haftem
+         Czarna, gotycka poszewka na poduszkę z hafte - Total stock: 164
+[2025-06-18 12:41:00] Product 2203: Aksamitne legginsy VESPER z haftem i pentagramami
+        
+
+Chcesz czuć się ultrakobieco i jednocz - Total stock: 93
+[2025-06-18 12:41:00] Product 2207: Bawełniana Sukienka Eden White z falbanami i wiązaniem gorsetowym
+        
+Nie masz czasu na kompl - Total stock: 22
+[2025-06-18 12:41:00] Product 2208: Bawełniana Sukienka Eden Black z falbanami i wiązaniem gorsetowym
+        
+Nie wiesz, w co się ub - Total stock: 3
+[2025-06-18 12:41:00] Product 2209: Bawełniana Sukienka CALISTA TUNIC z ksiycem
+        
+Wolisz nosić sukienki mini czy tuniki? Decyzj - Total stock: 71
+[2025-06-18 12:41:00] Product 2210: Bawełniana Sukienka MOON KEYHOLE TUNIC Czarna Tunika
+         
+ Lubisz nosić zwiewne gotyckie suk - Total stock: 21
+[2025-06-18 12:41:00] Product 2211: Sukienka gotycka ZOE DRESS żakardowa z falbanami
+         Szykuje Ci się wielkie wyjście i nie ma - Total stock: 82
+[2025-06-18 12:41:00] Product 2212: Sukienka gotycka BARDOT DRESS z falbanami i wiązaniem
+        
+Kochasz zwiewne tkaniny, falbany i h - Total stock: 6
+[2025-06-18 12:41:00] Product 2213: Sukienka gotycka DEVOURED DRESS z kokardą
+         Wybierasz się na randkę i chcesz wyglądać zm - Total stock: 13
+[2025-06-18 12:41:00] Product 2214: Sukienka aksamitna DRACULINA DRESS z gbokim dekoltem
+         Kojarzysz słynną Morticię Addams z  - Total stock: 31
+[2025-06-18 12:41:00] Product 2215: Sukienka z dekoltem serduszko VAMP DRESS
+         Szukasz gotyckiej sukienki, która podkreśli Twoj - Total stock: 93
+[2025-06-18 12:41:00] Product 2216: Sukienka z dekoltem serduszko LUCRETIA drapowana
+        
+Szukasz swojej ulubionej gotyckiej sukienk - Total stock: 10
+[2025-06-18 12:41:00] Product 2217: Długa drapowana bluza z pentagramem Hecate Draped Hoodie
+        Lubisz ubierać się w stylu gotyc - Total stock: 4
+[2025-06-18 12:41:00] Processed 800 products, found 119 with stock
+[2025-06-18 12:41:00] Product 2230: Aksamitne legginsy z siateczką BEADED LEGGINGS
+        Gotyckie, aksamitne legginsy z siateczką we - Total stock: 10
+[2025-06-18 12:41:00] Product 2236: Body z siateczki paprocie FOREST FERN bodysuit
+        Czarne gotyckie body z siateczki z nadrukiem  - Total stock: 127
+[2025-06-18 12:41:00] Product 2237: Siateczkowe body z ksiycem CRESCENT BODYSUIT
+        Gotyckie body z czarnej siateczki z nadrukiem b - Total stock: 25
+[2025-06-18 12:41:00] Product 2238: Czarne gotyckie body nylonowe z krukiem RAVEN
+         Gotyckie, czarne body z siateczki z motywem b - Total stock: 24
+[2025-06-18 12:41:00] Product 2239: Czarne gotyckie body katedralne INVERTED CATHEDRAL
+        Czarne body z siateczki z nadrukiem odwr� - Total stock: 160
+[2025-06-18 12:41:00] Product 2240: Legginsy z nadrukiem zielonych paproci
+        Śliskie, rozciągliwe legginsy dla leśnej wiedźmy - Total stock: 144
+[2025-06-18 12:41:00] Product 2258: Torebka gotycka "SUCCUBUS BAG" Torba nietoperz
+         Wybierasz się na mroczną imprezę albo na  - Total stock: 136
+[2025-06-18 12:41:00] Product 2265: Czarny plecak kostka CRESCENT kwadratowy z haftem ksiyca
+         Wybór plecaka nie jest łatwy - w - Total stock: 57
+[2025-06-18 12:41:00] Product 2267: GREEN GAYA VELVET DRESS Zielona sukienka z kieszeniami
+         Gotycka sukienka w kolorze butelkowe - Total stock: 82
+[2025-06-18 12:41:00] Product 2271: Czarne siateczkowe body z rozszerzanymi rękawami IRIS
+         Czarne siateczkowe body z rozszerzan - Total stock: 31
+[2025-06-18 12:41:00] Product 2273: Gotycka obroża z ksiycem COLLAR MOON HARNESS
+         Efektowna gotycka obroża z ksiycem COLLAR MO - Total stock: 146
+[2025-06-18 12:41:00] Product 2276: Gotycka uprz MOON HARNESS Pas z ksiycem
+        
+Gotycka uprz MOON HARNESS pas z ksiycem - bądź go - Total stock: 129
+[2025-06-18 12:41:00] Product 2278: COSMIC BAG Nietuzinkowa torba na wymiennych paskach
+         Gdybyśmy mogli na chwilę ożywić nas - Total stock: 18
+[2025-06-18 12:41:00] Product 2279: CATHEDRAL WALLET podłużny portfel ze wzorem katedry
+         Dobrze wiemy, że diabeł tkwi w szcz - Total stock: 96
+[2025-06-18 12:41:00] Product 2281: Gotycki Pasek na Talię KNOCKER WAIST BELT
+         Chcesz, żeby Twój strój wyrażał Twoją osob - Total stock: 25
+[2025-06-18 12:41:00] Processed 900 products, found 134 with stock
+[2025-06-18 12:41:00] Product 2285: HERBAL WALLET haftowany podłużny portfel paproć
+         HERBAL WALLET – haftowany, gotycki por - Total stock: 170
+[2025-06-18 12:41:00] Product 2288: Czarne gotyckie body katedralne CATHEDRAL CORSET
+        Czarne body z siateczki z nadrukiem gotycki - Total stock: 300
+[2025-06-18 12:41:00] Product 2290: HERBAL HOODIE haft paproć i ksiyc Długa, gotycka bluza z paprocią
+        Gotycka bluza "Herbal H - Total stock: 59
+[2025-06-18 12:41:00] Product 2292: BAT LEGGINGS Bawełniane legginsy ze skrzydłami nietoperza
+        Nadszedł czas, aby dodać troch - Total stock: 46
+[2025-06-18 12:41:00] Product 2293: PENTAGRAM HARNESS LEGGINGS legginsy z bawełny z harnessem
+        Gotyckie legginsy PENTAGRAM HARNE - Total stock: 27
+[2025-06-18 12:41:00] Product 2294: Czarny kapelusz MOON CHILD z ksiycem i szerokim rondem
+        Gotycki kapelusz z dużym rondem
+Kap - Total stock: 82
+[2025-06-18 12:41:00] Product 2295: Czarny kapelusz MOON PHASES z ksiycem i szerokim rondem
+        Gotycki kapelusz z dużym, sztywnym - Total stock: 11
+[2025-06-18 12:41:00] Product 2297: Gotycki Czarny kapelusz wełna FORTUNE TELLER  OUTLET
+        OUTLET-Nadruk kapelusza delikatnie wpa - Total stock: 146
+[2025-06-18 12:41:00] Product 2299: Gotycki Czarny kapelusz z dużym rondem wełna ANTLERS
+        Gotycki kapelusz z dużym, sztywnym  - Total stock: 41
+[2025-06-18 12:41:00] Product 2302: Czarne gotyckie body w ĆMY Death's head hawkmoth
+        
+W nocy życie nie zamiera. Za to budzą s - Total stock: 32
+[2025-06-18 12:41:00] Product 2303: Body z siateczki MOTHS CONTOUR BODYSUIT
+        
+Ciągnie cię do ciemności jak ćmę do swiatła?
+ - Total stock: 47
+[2025-06-18 12:41:00] Product 2304: Czarne body z siateczki CATHEDRAL DRAGONFLY ważka i katedra
+        
+Musisz przyznać, że nic nie  - Total stock: 98
+[2025-06-18 12:41:00] Processed 1000 products, found 146 with stock
+[2025-06-18 12:41:00] Product 2312: SKARPETY BAT BAROQUE Nietoperz
+        Wkrocz do świata mroku i cienia w naszych gotyckich skarpeta - Total stock: 69
+[2025-06-18 12:41:00] Product 2313: żakardowe SKARPETY CATHEDRAL SNAKE z wem
+        Oto gotyckie ssssssskarpetki, dzięki którym wliz - Total stock: 87
+[2025-06-18 12:41:00] Product 2314: SKARPETY HERBAL żakardowa para skarpet paproć
+        Niezależnie od tego, czy wędrujesz po pras - Total stock: 66
+[2025-06-18 12:41:00] Product 2317: SACRUM skarpety z rozetą katedra
+        Wędrujesz brukowanymi uliczkami Whitby, jak niegdyś snu� - Total stock: 7
+[2025-06-18 12:41:00] Product 2329: BONDED FLARE PANTS Spodnie z wysokim stanem z rozcięciami i sznurowaniem
+        
+"Jej strój emano - Total stock: 105
+[2025-06-18 12:41:00] Product 2330: CATHEDRAL CIRCLE SKIRT Katedralna Spódnica z koła
+        
+Katedralne wzory to już nasz znak rozp - Total stock: 25
+[2025-06-18 12:41:00] Product 2331: PHOENIX SKIRT Drapieżna spódnica mini z aksamitu i siateczki
+         
+Gotycka spódnica Mini Pho - Total stock: 102
+[2025-06-18 12:41:00] Product 2332: PHOENIX BODYSUIT Drapieżne czarne body
+        
+ "Weszła do pokoju, a każde spojrzenie natychmia - Total stock: 86
+[2025-06-18 12:41:00] Product 2333: DESIREE SKIRT Asymetryczna spódnica z przeszyciami
+        
+Oto ona, Desiree –oczy wszystkich by� - Total stock: 93
+[2025-06-18 12:41:00] Product 2334: DELANEY Asymetryczna spódnica z wycięciem
+        Delaney, kobieta o tajemniczej urodzie, strategi - Total stock: 64
+[2025-06-18 12:41:00] Product 2335: CATHEDRAL TRENCH COAT, Nieprzemakalny płaszcz z rozetą
+        Poczuj się jak femme fatale przemi - Total stock: 23
+[2025-06-18 12:41:00] Product 2336: ROSARIUM LASER CUT HAT, cathedral wide brim hat
+        Rosarium Laser Cut Hat to niezwykły, wełni - Total stock: 111
+[2025-06-18 12:41:00] Product 2337: ROSARIUM COAT zamszowy płaszcz w motywy katedralne
+        Przedstawiamy zimowy płaszcz Rosarium w - Total stock: 16
+[2025-06-18 12:41:00] Product 2344: CATHEDRALIS BODYSUIT Body królowej ze zdobionymi plecami
+        
+Przeniknij w odległe czasy i poc - Total stock: 14
+[2025-06-18 12:41:01] Processed 1100 products, found 160 with stock
+[2025-06-18 12:41:01] Product 2345: BUCKLE UP Eleganckie spodnie z wysokim stanem i klamrami
+        
+Ożyw swój styl za sprawą naszy - Total stock: 6
+[2025-06-18 12:41:01] Product 2346: asymmetric blouse Asymetryczna bluzka z wycięciem
+        
+ Zanurz się w opowie o wyrafinowanej s - Total stock: 79
+[2025-06-18 12:41:01] Product 2347: LIVIA WAXED Spódnica mini woskowana z tiulowymi wstawkami
+        Ta spódnica Livia Waxed Skirt je - Total stock: 84
+[2025-06-18 12:41:01] Product 2348: MOON ARMY Bodysuit Asymetryczne body z ksiycem
+        
+Czy ośmielisz się włożyć nasze nowe bod - Total stock: 173
+[2025-06-18 12:41:01] Product 2350: VENUS BODYSUIT konturujące body na ramiączkach
+        
+ 
+Body Venus to odważny i zmysłowy str� - Total stock: 177
+[2025-06-18 12:41:01] Product 2351: BEADED ISADORA BLOUSE Bluzka z chokerem i koralikami
+        
+Bluzka Isadora to wyjątkowy element T - Total stock: 147
+[2025-06-18 12:41:01] Product 2352: LORETTA Spodnie z bardzo wysokim stanem, Dzwony z ksiycem
+        
+Loretta to eleganckie spodnie stw - Total stock: 43
+[2025-06-18 12:41:01] Product 2353: Grand Rose Floaty Skirt spódnica z siateczką i gotycką rozetą
+         
+Przedstawiamy Gotycką - Total stock: 60
+[2025-06-18 12:41:01] Product 2354: ROSARIUM BODYSUIT Body z rozszerzanymi rękawami i rozetą
+        
+Body Rosarium z Restyle.pl to p - Total stock: 253
+[2025-06-18 12:41:01] Product 2355: CATHEDRAL SNAKE LEGGINGS
+        
+Legginsy bawełniane z wysokim stanem wykonane z wysokiej jakości - Total stock: 29
+[2025-06-18 12:41:01] Product 2356: CATHEDRAL SNAKE BLOUSE Bluzka ze skrzyżowanymi paskami i odkrytymi plecami
+        
+Bluzka wykonana - Total stock: 116
+[2025-06-18 12:41:01] Product 2357: CATHEDRAL SNAKE CROPPED Krótka bluza z balonowymi rękawami
+        Kochamy motywy katedralne i wow - Total stock: 102
+[2025-06-18 12:41:01] Product 2358: CATHEDRAL SNAKE Spodnie z dużym haftem wy
+        
+
+
+
+
+
+
+
+
+
+
+
+Rockowe spodnie ozdobione szczegowym - Total stock: 105
+[2025-06-18 12:41:01] Product 2359: CATHEDRAL SNAKE BODYSUIT aksamitne body z dwoma wami
+        
+
+
+
+
+
+
+
+
+
+
+
+Cathedral Snake Bodysuit od - Total stock: 34
+[2025-06-18 12:41:01] Product 2362: CATHEDRALIS LEGGINGS
+        
+Czerń to coś więcej niż kolor - to nastrój! Legginsy CATHEDRALIS  - Total stock: 87
+[2025-06-18 12:41:01] Product 2363: ROSARIUM LASER CUT LEGGINGS
+        
+Legginsy ROSARIUM LASER CUT hołdują zasadzie trzech „i”:  - Total stock: 196
+[2025-06-18 12:41:01] Processed 1200 products, found 176 with stock
+[2025-06-18 12:41:01] Product 2365: ROSARIUM Flocked Leggings
+        
+Flokowane legginsy ROSARIUM to nie tylko element ubioru okrywają - Total stock: 29
+[2025-06-18 12:41:01] Product 2366: SANCTUARY leggings
+        Niezależnie od tego, czy wędrujesz po średniowiecznych katedrach, czy� - Total stock: 188
+[2025-06-18 12:41:01] Product 2368: ENCHANTED FOREST HOODIE Bluza z haftem ćma i paproć
+        
+Dla wszystkich kapłanek zaklętego l - Total stock: 134
+[2025-06-18 12:41:01] Product 2369: ENCHANTED FOREST ROUND BAG Okrągła Magiczna torebka ćma
+        Wybierz się z nami na nocną wę - Total stock: 9
+[2025-06-18 12:41:01] Product 2371: ENCHANTED FOREST BACKPACK Magiczny Plecak z haftem ćmy
+        
+Z pewnością znasz dobrze nasz kul - Total stock: 8
+[2025-06-18 12:41:01] Product 2393: SKARPETY MOONGLOW
+        Żakardowe skarpety Moonglow odzwierciedlają dwie strony Twojej duszy: je - Total stock: 220
+[2025-06-18 12:41:01] Product 2397: CATHEDRAL SNAKE MINI Spódniczka z wem
+        Bądź jak Ewa w Raju i daj się skusić zmysłowemu  - Total stock: 92
+[2025-06-18 12:41:01] Product 2399: BODY ELVEN WHISPERS Elfickie zdobione body ze skrzydłami
+        
+
+
+
+
+
+
+
+
+
+
+
+Gotyckie pieśni z elf - Total stock: 11
+[2025-06-18 12:41:01] Product 2400: GOTHIC CHAPEL BODY katedralne z opuszczonymi ramionami
+        
+
+
+
+
+
+
+
+
+
+
+
+Subtelna zmysłowo, tajem - Total stock: 22
+[2025-06-18 12:41:01] Product 2401: GOTHIC CHAPEL BODY V-Neck Gotyckie Body katedralne
+        
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Body Gothic Chapel to p - Total stock: 367
+[2025-06-18 12:41:01] Product 2413: SHADOWS MAXI SKIRT
+        Czy zastanawiałaś się kiedyś, ile piękna tego świata zawdzięczamy  - Total stock: 41
+[2025-06-18 12:41:01] Product 2414: MIDNIGHT VEIL LONG SLEEVE TOP
+        Co jest takiego niezwykłego w pnocy?
+To ulubiona pora czarown - Total stock: 121
+[2025-06-18 12:41:01] Product 2415: LEVIATHAN MIDI SKIRT
+        Elegancka, zwiewna i gotycka - taka w skrócie jest spódnica LEVIATHAN - Total stock: 188
+[2025-06-18 12:41:01] Product 2416: AFTERLIFE HALTERNECK TOP
+        Top AFTERLIFE HALTERNECK stanowi niezwyk alternatywę dla zwykłych - Total stock: 84
+[2025-06-18 12:41:01] Product 2417: CRYPT VELVET MIDI SKIRT
+        Czarny aksamit. Tkanina snów, w której blask ksiyca splótł się  - Total stock: 127
+[2025-06-18 12:41:01] Processed 1300 products, found 191 with stock
+[2025-06-18 12:41:01] Product 2418: DARK ALTAR HALTERNECK TOP
+        Czy kiedykolwiek miałaś odwagę, by pozwolić wyłonić się cie - Total stock: 80
+[2025-06-18 12:41:01] Product 2419: LILITH MAXI DRESS
+        Obudź w sobie prawdziwą kusicielkę! Ta seksowna i elegancka sukienka w  - Total stock: 46
+[2025-06-18 12:41:01] Product 2420: Sanctum Bucket Bag Katedralna Torba Worek
+        Wyobraź sobie gotycką torebkę, w której gboka  - Total stock: 17
+[2025-06-18 12:41:01] Product 2424: Midnight Moon Backpack Plecak pokryty haftami
+        Czerń gboka niczym niebo o pnocy, motywy ksiy - Total stock: 116
+[2025-06-18 12:41:01] Product 2429: CATHEDRALIS Buty Sztyblety z klamrami katedralnymi
+        Gotyckie sztyblety wytrzymają każdy bun - Total stock: 2
+[2025-06-18 12:41:01] Product 2430: Gotyckie Trzewiki SANCTORIUM Katedralne, sznurowane buty
+        Dokładno i precyzja to wartości,  - Total stock: 52
+[2025-06-18 12:41:01] Product 2437: SACRUM HOODIE Bluza z obszernym kapturem i rozetą
+        
+Architektura gotycka słynie z niepodrab - Total stock: 6
+[2025-06-18 12:41:01] Product 2438: HERBAL SWEATPANTS Spodnie dresowe modelujące z haftem
+        
+Czy marzyłaś kiedykolwiek, by po p - Total stock: 251
+[2025-06-18 12:41:01] Product 2439: HERBAL CROPPED Krótka bluza z haftem
+        Nie musisz rzucać wszystkiego i wyjeżdżać w Bieszc - Total stock: 82
+[2025-06-18 12:41:01] Product 2440: HERBAL HAT Haftowany kapelusz
+         
+Jak wyrazić swoją naturę czarownicy bez zielarskiego kap - Total stock: 308
+[2025-06-18 12:41:01] Processed 1400 products, found 201 with stock
+[2025-06-18 12:41:01] Product 2443: AUTUMNAL EQUINOX legginsy
+        Wkrocz w fantastyczny świat niezwykłych grzybów i ciem! Nasz au - Total stock: 147
+[2025-06-18 12:41:01] Product 2445: AUTUMNAL EQUINOX Krótka Bluza
+        
+Daj się zabrać w niezwyk podr, w której pewno siebie spot - Total stock: 254
+[2025-06-18 12:41:01] Product 2446: AUTUMNAL EQUINOX HOODIE Bluza z haftem Ćma i muchomor
+        
+Czy kochasz gotyk i jesteś kreatywn - Total stock: 13
+[2025-06-18 12:41:01] Product 2450: AUTUMNAL EQUINOX HAT Kapelusz z haftem ćmy
+         
+Czy wiesz, że szerokie haftowane rondo kapel - Total stock: 89
+[2025-06-18 12:41:01] Product 2459: HERBAL JEANS haftowane dzwony z wysokim stanem
+        Chcesz się poczuć jak czarownica z kultowyc - Total stock: 31
+[2025-06-18 12:41:01] Product 2460: HERBAL CORSET Gorsetowa kamizelka z haftem roślinnym
+        
+Nasza czarna kamizelka z roślinnym h - Total stock: 295
+[2025-06-18 12:41:01] Product 2462: CATHEDRALIS MIDI DRESS
+        Wspczesne czarownice czą swoje magiczne dziedzictwo z mieszanką sta - Total stock: 110
+[2025-06-18 12:41:01] Product 2463: ENTOMBED DRESS
+        Nimfy, elfy i driady – wszystkie te istoty ucieleśniały eteryczno, tajemn - Total stock: 151
+[2025-06-18 12:41:01] Product 2464: AZAEL DRESS
+        Czarujący wdzięk i niesamowita wygoda? Sukienka Azael jest stworzona do wyraż - Total stock: 112
+[2025-06-18 12:41:01] Product 2469: ENCHANTED FOREST HAT z haftem
+         
+ 
+Poczuj się jak w zaczarowanym lesie! Kapelusz Enchanted - Total stock: 298
+[2025-06-18 12:41:01] Product 2470: ENCHANTED FOREST WALLET
+        Portfel Enchanted Forest to coś więcej niż tylko dodatek. To magi - Total stock: 131
+[2025-06-18 12:41:01] Product 2471: ENCHANTED FOREST legginsy
+        Wiesz, że każdy element stroju opowiada Twoją unikalną histori - Total stock: 6
+[2025-06-18 12:41:01] Product 2472: ENCHANTED FOREST BODYSUIT Body z haftem
+        
+
+
+
+
+
+
+
+
+
+
+
+Hipnotyzuj i nieś magię wszędzie, gdz - Total stock: 107
+[2025-06-18 12:41:01] Processed 1500 products, found 214 with stock
+[2025-06-18 12:41:01] Product 2473: ENCHANTED FOREST Spodnie dresowe modelujące z haftem
+        
+Magia i komfort – otul się jednym  - Total stock: 22
+[2025-06-18 12:41:01] Product 2476: ENCHANTED FOREST BLUZKA Z ROZSZERZANYMI RĘKAWAMI
+        
+
+
+
+
+
+
+
+
+
+
+
+Czy wierzysz w magię przyrody - Total stock: 105
+[2025-06-18 12:41:01] Product 2477: Poszewka ENCHANTED FOREST haftowana poduszka z ćmą
+        Wyczaruj atmosferbaśniowych marzeń se - Total stock: 109
+[2025-06-18 12:41:01] Product 2478: ENCHANTED FOREST JEANS dzwony z wysokim stanem
+        
+Nasze spodnie dzwony z haftem są jak gdyby  - Total stock: 148
+[2025-06-18 12:41:01] Product 2479: ETERNAL NIGHT CHOKER
+        Czarny aksamitny choker z krzyżem gotyckim to absolutny must-have dla  - Total stock: 73
+[2025-06-18 12:41:01] Product 2480: SANCTUM BODYSUIT
+        
+
+
+
+
+
+
+
+
+
+
+
+Obudź w sobie Królową Nocy! ♥
+Za zmysłowe gotyckie body i - Total stock: 52
+[2025-06-18 12:41:01] Product 2481: Plisowana spódniczka CATHEDRALIS
+        Elegancka, ale z pazurem. Taki niezwykły charakter wyrnia - Total stock: 91
+[2025-06-18 12:41:01] Product 2482: DARK ALTAR BODYSUIT
+        Czy zdarza Ci się czuć zew mrocznej elegancji, wołający Twoją dusz� - Total stock: 22
+[2025-06-18 12:41:01] Product 2483: TOP BATWING LACE UP
+        Co powiesz na poczenie stylistyki femme fatale z z oryginalnym nietoperz - Total stock: 136
+[2025-06-18 12:41:01] Product 2484: Mini sukienka ROSARIUM
+        Restyle słynie z oryginalnych projektów, wysokiej jakości materiaw - Total stock: 192
+[2025-06-18 12:41:01] Product 2485: Mini sukienka ADOLERE
+        Nasza gotycka „mała czarna” przemieni każde spojrzenie w gest pe - Total stock: 242
+[2025-06-18 12:41:01] Product 2487: UNHALLOWED SPODNIE DZWONY
+        
+Poczuj się jak prawdziwa muza ciemności i zostaw po sobie nieza - Total stock: 147
+[2025-06-18 12:41:01] Product 2488: Mini sukienka ARMAROS BURNOUT
+        Oto ona – wyłania się z gbin nocy, przemyka przez mrok z e - Total stock: 129
+[2025-06-18 12:41:01] Product 2489: DARK ANGEL BURNOUT DUSTER gotycka narzutka
+        Odkryj w sobie piękno mrocznego anioła – potn - Total stock: 314
+[2025-06-18 12:41:01] Product 2490: MAJTKI ROSARIUM
+        W naszych wyjątkowych majtkach Rosarium poczujesz się jak w łożu usłany - Total stock: 194
+[2025-06-18 12:41:01] Product 2491: BRALETKA ROSARIUM TOP KATEDRALNY
+        Poczuj się doskonale, nosząc naszą braletkę Rosarium.
+P - Total stock: 223
+[2025-06-18 12:41:01] Processed 1600 products, found 230 with stock
+[2025-06-18 12:41:01] Product 2492: DARK ALTAR NIGHT DRESS
+        Widok katedry rozświetlonej na tle mrocznej nocy to niewątpliwie je - Total stock: 296
+[2025-06-18 12:41:01] Product 2493: PŁASZCZ ZIMOWY SANCTORIUM z futerkiem shaggy
+        Ekstrawagancja i przytulno w jednym! Nasz goty - Total stock: 7
+[2025-06-18 12:41:01] Product 2495: PŁASZCZ CATHEDRALIS  z pelerynką
+        Ciepło i lekko w jednym? Nasz płaszcz obszyty futerkiem - Total stock: 83
+[2025-06-18 12:41:01] Product 2503: Spodnie MORTEM woskowane rurki z wiązaniem
+        
+Awangardowe spodnie Mortem Lace-up czą eleganc - Total stock: 43
+[2025-06-18 12:41:01] Product 2504: Spodnie CATHEDRALIS z klamrami w kształcie iglic
+        
+Wyjątkowe i niepowtarzalne. Spodnie Cath - Total stock: 36
+[2025-06-18 12:41:01] Product 2505: Bluzka CATHEDRALIS z baskinką i klamrami
+        
+
+
+
+
+
+
+
+
+
+
+
+Czy tak jak my uwielbiasz eksperymento - Total stock: 61
+[2025-06-18 12:41:01] Product 2506: BLUZKA CATACOMBS z odkrytymi ramionami
+        
+
+
+
+
+
+
+
+
+
+
+
+Gotowa, by zrobić wrażenie?Nasza gotyck - Total stock: 33
+[2025-06-18 12:41:01] Product 2507: BLUZKA DELPHYNE Z OPUSZCZONYMI RAMIONAMI
+        
+
+
+
+
+
+
+
+
+
+
+
+Nasza gotycka bluzka DELPHYNE elegancko - Total stock: 94
+[2025-06-18 12:41:01] Product 2508: SZLAFROK CATHEDRALIS
+        Rozkoszuj się luksusem dzięki naszemu wyjątkowemu prześwitującemu  - Total stock: 119
+[2025-06-18 12:41:01] Product 2511: CATHEDRALIS Gotycki szeroki pas na talię
+        Odkryj w sobie potęgę królowej-wojowniczki. Nas - Total stock: 204
+[2025-06-18 12:41:01] Product 2512: HALLOWS PEPLUM Harness Katedralny pas
+        Nasza gotycka uprz to esencja odważnej mody. Emanuje  - Total stock: 332
+[2025-06-18 12:41:01] Product 2513: DEADLY SINS HARNESS
+        Minimalistyczny, ale maksymalnie gotycki. Masz odwagę, by założyć na - Total stock: 243
+[2025-06-18 12:41:01] Product 2514: EVELYNN KOTURNY TYPU BABYDOLL Z KLAMRAMI
+        Stylowe, odważne i charakterne. Gotyckie botki Eve - Total stock: 24
+[2025-06-18 12:41:01] Product 2515: WYSOKIE PLATFORMY CEREMONY z klamrami
+        Buty na platformie przeznaczone są dla pań stawiają - Total stock: 38
+[2025-06-18 12:41:01] Product 2522: Aksamitny choker CATHEDRALIS VELVET COLLAR
+        Elegancja. Mrok. Tajemnica.
+Kruczoczarna aksamitn - Total stock: 250
+[2025-06-18 12:41:01] Processed 1700 products, found 245 with stock
+[2025-06-18 12:41:01] Product 2524: SALVATION STACKER RING Pierścionek katedralny
+        Stwórz idealną kompozycję z naszym pierśc - Total stock: 255
+[2025-06-18 12:41:01] Product 2525: Pierścionek FALSE IDOLS
+        Legenda głosi, że ten pierścień nosiła niegdyś piękna hrabin - Total stock: 309
+[2025-06-18 12:41:01] Product 2526: ROSARIUM CORSET BELT Gorsetowy pasek
+         
+ XS/S = 63cm-71cmM/L = 71cm-78 cmXL/2XL = 78 cm-86  - Total stock: 5
+[2025-06-18 12:41:01] Product 2531: Body NORTHERN LIGTHS
+        
+Arktyczna magia, gotycka elegancja i nutka tajemnicy w jednym? Oto nas - Total stock: 96
+[2025-06-18 12:41:01] Product 2532: Bluza z haftem NORTHERN LIGTHS
+        
+Nocne, arktyczne niebo oglądane z ciepłego wnętrza gotyck - Total stock: 283
+[2025-06-18 12:41:01] Product 2533: AURORA TOREBKA NORTHERN LIGHTS
+        A gdyby tak zamienić nocne niebo w torebkę?A gdyby cząstka - Total stock: 345
+[2025-06-18 12:41:01] Product 2534: TORBA SHOPPERKA NORTHERN LIGHTS
+        Czy nocne niebo i gotycka architektura mogą zczyć się w � - Total stock: 345
+[2025-06-18 12:41:01] Product 2535: HAFTOWANY PLECAK NORTHERN LIGHTS
+        Gdyby Van Gogh malował „Gwiaździstą Noc” z wnętrza  - Total stock: 250
+[2025-06-18 12:41:01] Product 2536: CATHEDRAL SNAKE TOREBKA z HAFTEM WA
+        Nasza elegancka torebka na ramię z pewnością zachwyci - Total stock: 177
+[2025-06-18 12:41:01] Product 2537: CATHEDRAL SNAKE PLECAK
+        Mroczny design i elegancja w jednym?
+ 
+Gotycki plecak z wem CATHEDRA - Total stock: 187
+[2025-06-18 12:41:01] Product 2538: MOONGLOW torebka z haftem w kształcie podkowy
+        Czy tajemnicze i niezbadane światy są dla C - Total stock: 114
+[2025-06-18 12:41:01] Product 2539: MOONGLOW HAFTOWANY PLECAK
+        
+Czy czujesz zew tajemnicy lasu skąpanego w blasku ksiyca? Haft n - Total stock: 153
+[2025-06-18 12:41:01] Product 2556: LOST IN MAGIC mini spódniczka
+        Kobieca i odważna. Delikatna, a zarazem śmiała. Spódniczk - Total stock: 173
+[2025-06-18 12:41:01] Product 2558: SPELLBOUND mini spódniczka
+        WAŻNE: Zalecamy zmierzyć obwód bioder w najszerszym miejscu.  - Total stock: 124
+[2025-06-18 12:41:01] Product 2559: BELLADONNA KORONKOWA BLUZKA
+        Poczuj się jak nimfa leśna w romantycznym, koronkowym topie BE - Total stock: 184
+[2025-06-18 12:41:01] Product 2560: PERSIPHONE MINI SPÓDNICZKA Z PASKIEM
+        Jest niczym lekki powiew wiatru w lesie. Mini spódnic - Total stock: 141
+[2025-06-18 12:41:01] Product 2561: ACANTHA WIĄZANY TOP
+        Poczuj się jak leśna nimfa otulona miękkością. Celebruj swoje cia� - Total stock: 72
+[2025-06-18 12:41:01] Product 2562: DARK BOTANY MINI Z HAFTEM
+        Czy czujesz, że Twoje miejsce jest wśród żywiow i spokoju natu - Total stock: 195
+[2025-06-18 12:41:01] Processed 1800 products, found 263 with stock
+[2025-06-18 12:41:01] Product 2563: WOODLAND BLOOM WIĄZANY TOP
+        Może masz duszę wiedźmy, a może marzycielki. Czy zachwycają - Total stock: 140
+[2025-06-18 12:41:01] Product 2564: MIDNIGHT FLORA MINI SUKIENKA
+        Oto ona – przemierza las tak, jakby był jej domem, jakby drz - Total stock: 52
+[2025-06-18 12:41:01] Product 2565: FALLEN LEAVES sukienka midi
+        Dla kobiet, które noszą noc w sercu, a w duszy dziko pradawneg - Total stock: 135
+[2025-06-18 12:41:01] Product 2566: WILDERWOOD sukienka mini z wiskozy
+        Bądź sobą i nie idź na kompromisy! Noś tę sukienkę - Total stock: 50
+[2025-06-18 12:41:01] Product 2567: WILDERWOOD spódnica midi z wiskozy
+        Spacerujesz powoli i z namysłem tam, gdzie inni się sp - Total stock: 16
+[2025-06-18 12:41:01] Product 2568: ENCHANTED ENCOUNTERS top gorsetowy
+        
+Zrzuć starą skórę i przywitaj dziko.
+Top Enchanted E - Total stock: 24
+[2025-06-18 12:41:01] Product 2570: FORGOTTEN GARDENS sukienka mini
+        Czy zawsze fascynowało Cię to, co tajemnicze i nieuchwytne - Total stock: 154
+[2025-06-18 12:41:01] Product 2571: POISONED PETAL sukienka midi
+        Dla czarownic, wizjonerek i bogiń lasu – istot utkanych z m - Total stock: 7
+[2025-06-18 12:41:01] Product 2572: RHODANTHE spódnica z wiskozy maxi
+        Spódnica Rhodanthe zachwyca hipnotyzującym pięknem i o - Total stock: 10
+[2025-06-18 12:41:01] Product 2573: LICHEN LACE TOP
+        Granica delikatności i mroku – najpiękniejsze miejsce.
+Dodaj odrobinę r - Total stock: 67
+[2025-06-18 12:41:01] Product 2575: WILD INCANTATIONS sukienka maxi
+        Nie chowaj się w ciemności – tańcz w niej! Sukienka Wil - Total stock: 71
+[2025-06-18 12:41:01] Product 2580: MOON GAZER HARNESS Dwustronny
+        XS/S = TALIA 64 cm – 72 cmM/L = TALIA 73 cm – 81 cmXL/2XL  - Total stock: 211
+[2025-06-18 12:41:01] Product 2581: HEMLOCK LACE UP HARNESS
+        XS/S = TALIA 64 cm – 72 cm
+M/L = TALIA 73 cm – 81 cm
+XL/2XL = TA - Total stock: 203
+[2025-06-18 12:41:01] Product 2582: CERES O-RING BELT
+        XS/S = TALIA 64 cm – 72 cm
+M/L = TALIA 73 cm – 81 cm
+XL/2XL = TALIA - Total stock: 90
+[2025-06-18 12:41:01] Product 2583: WILDFLOWER kapelusz z ksiycem i roślinami
+        Romantyczny, rustykalny i absolutnie czarujący.  - Total stock: 194
+[2025-06-18 12:41:01] Product 2584: HARE MOON kapelusz z zającem
+        Wskocz w świat magii z naszym czarującym kapeluszem!
+Zdobion - Total stock: 171
+[2025-06-18 12:41:01] Product 2586: TANGLED VINES TOREBKA Z FRĘDZLAMI
+        Prawdziwa oda do leśnej magii. Torba typu sling zachwyca - Total stock: 195
+[2025-06-18 12:41:01] Product 2587: SERPENT'S LAIR TOREBKA Z HAFTEM WA
+        Najdziksza torba w kolekcji Wilderwood? Oto ona &lt;3
+W w - Total stock: 242
+[2025-06-18 12:41:01] Processed 1900 products, found 281 with stock
+[2025-06-18 12:41:01] Product 2588: WILDFLOWER TORBA WOREK
+        Uwielbiamy tworzyć rzeczy, które mają w sobie coś osobistego –  - Total stock: 193
+[2025-06-18 12:41:01] Product 2589: SHOPPERKA WILDERWOOD VELVET BAG
+        To prawdziwa perełka kolekcji – torebka, obok której nik - Total stock: 93
+[2025-06-18 12:41:01] Product 2590: PLECAK Z ĆMĄ WILDERWOOD
+        Marzenie każdej wspczesnej czarownicy.
+Inspirowany naturą i świ - Total stock: 98
+[2025-06-18 12:41:01] Product 2591: PLECAK HARE MOON
+        Strażnik lasu i przyjaciel ksiyca.
+W centrum tego plecaka znajduje się sk - Total stock: 226
+[2025-06-18 12:41:01] Product 2612: BODY CASTLE GUARDIAN
+        
+
+
+
+
+
+
+
+
+
+
+
+Gotyckie łuki, strzeliste wieże i mitologiczny smok tworz - Total stock: 470
+[2025-06-18 12:41:01] Parsing completed. Total products: 1927, Products with stock: 286
+[2025-06-18 12:41:01] Results saved to: D:\restyle-app/products_with_stock_2025-06-18_12-41.json
+[2025-06-18 12:41:01] File size: 465.27 KB
+[2025-06-18 12:41:01] === Processing completed successfully ===
+[2025-06-18 12:43:15] === Starting XML feed parsing ===
+[2025-06-18 12:43:15] Starting XML parsing of: D:\restyle-app/feed.xml
+[2025-06-18 12:43:15] File size: 18.40 MB
+[2025-06-18 12:43:15] Product 1468: Gotycki Pasek na talię, uprz , Czarny "PENTAGRAM HARNESS BELT"
+        Pentagram harnessPasek wykon - Total stock: 1 (exactly 1 unit)
+[2025-06-18 12:43:15] Processed 100 products, found 1 with exactly 1 stock
+[2025-06-18 12:43:15] Product 1572: Bransoleta czona z pierścionkiem, ksiyc, fazy ksiyca "LUNAR GODDESS BRACELET"
+         Bransoleta  - Total stock: 1 (exactly 1 unit)
+[2025-06-18 12:43:15] Processed 200 products, found 2 with exactly 1 stock
+[2025-06-18 12:43:15] Processed 300 products, found 2 with exactly 1 stock
+[2025-06-18 12:43:15] Processed 400 products, found 2 with exactly 1 stock
+[2025-06-18 12:43:15] Processed 500 products, found 2 with exactly 1 stock
+[2025-06-18 12:43:15] Processed 600 products, found 2 with exactly 1 stock
+[2025-06-18 12:43:15] Product 2140: Sukienka gotycka aksamit i koronka wiązana pod szyją
+         Czarna, gotycka sukienka z aksamitu  - Total stock: 1 (exactly 1 unit)
+[2025-06-18 12:43:16] Processed 700 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 800 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 900 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1000 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1100 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1200 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1300 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1400 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1500 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1600 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1700 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1800 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Processed 1900 products, found 3 with exactly 1 stock
+[2025-06-18 12:43:16] Parsing completed. Total products: 1927, Products with exactly 1 stock: 3
+[2025-06-18 12:43:16] Results saved to: D:\restyle-app/products_with_stock_2025-06-18_12-43.json
+[2025-06-18 12:43:16] File size: 0.76 KB
+[2025-06-18 12:43:16] === Processing completed successfully ===

@@ -1,0 +1,24 @@
+{
+    "summary": {
+        "generated_at": "2025-06-18 12:43:16",
+        "total_products_in_feed": 1927,
+        "products_with_exactly_1_stock": 3
+    },
+    "products": [
+        {
+            "id": "1468",
+            "name": "Gotycki Pasek na tali, uprz , Czarny &#34;PENTAGRAM HARNESS BELT&#34;        Pentagram harnessPasek wykon",
+            "total_stock": 1
+        },
+        {
+            "id": "1572",
+            "name": "Bransoleta czona z piercionkiem, ksiyc, fazy ksiyca &#34;LUNAR GODDESS BRACELET&#34;        Bransoleta",
+            "total_stock": 1
+        },
+        {
+            "id": "2140",
+            "name": "Sukienka gotycka aksamit i koronka wizana pod szyj         Czarna, gotycka sukienka z aksamitu",
+            "total_stock": 1
+        }
+    ]
+}
