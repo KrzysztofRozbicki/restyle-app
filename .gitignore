@@ -1,30 +1,89 @@
+# Composer
 /vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+composer.phar
+composer.lock
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
-
-storage/*.key
+# Environment and config files
 .env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
+config.php
+api_keys.php
 
-/public/build
-/storage/pail
-.env.backup
-.env.production
-.phpactor.json
-auth.json
+# Logs
+logs/
+*.log
+error.log
+access.log
+
+# Data and cache directories
+/data/
+/cache/
+/tmp/
+/temp/
+
+# IDE and Editor files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+.project
+.buildpath
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+*.tmp
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# IdoSell API specific files
+idosell_config.php
+api_credentials.txt
+/orders_backup/
+/sync_data/
+
+# Database files (if using SQLite)
+*.sqlite
+*.sqlite3
+*.db
+
+# Session files
+/sessions/
+session_*
+
+# Upload directories
+/uploads/
+/files/
+
+# Error and debug files
+debug.log
+error_log
+php_errors.log
+
+# Package files
+*.deb
+*.rpm
+
+# Runtime files
+*.pid
+*.sock
+
+# Local development
+local_config.php
+dev_settings.php
+test_api.php
